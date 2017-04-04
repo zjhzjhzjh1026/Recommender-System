@@ -1,0 +1,10 @@
+1.linear/Ridge Regreesion 
+2.boosting gradient descent
+3.stochastic gradient descent
+4.logistic regression
+5.Random Forest Tree
+6.NeuralNetwork
+
+Regression/Classification ?
+
+No.5 是效果最好的，远好于其他几个
